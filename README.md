@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on AI/ML/DL and Android Projects
-- 📫 You can reach me throygh my number- 8765612243
+- 📫 You can reach me throygh my insta - Vaibhavyadav350
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavyadav350)](https://git.io/streak-stats)
 <!---
